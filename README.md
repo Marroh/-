@@ -17,20 +17,20 @@
 
 #### 结果展示
 
-![image-20200717002807423](结果展示\image-20200717002807423.png)
+![原始点云](结果展示/original_mesh.png)
 
-![image-20200717002822064](结果展示\image-20200717002822064.png)
+![旋转后点云](结果展示/rotted_mesh.png)
 
 <table border="0">
   <tr>    
     <td width="50%">
-      <img src="结果展示\image-20200717002831777.png" width="75%">
+      <img src="结果展示/obstacle.png" width="75%">
     </td>
     <td width="50%">
-      <img src="结果展示\image-20200717002835122.png" width="75%">
+      <img src="结果展示/path_2D.png" width="75%">
     </td>
   </tr>
 </table>
 
 
-![image-20200717002841257](结果展示\image-20200717002841257.png)
+![](结果展示/path_3D.png)
